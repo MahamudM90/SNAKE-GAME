@@ -1,2 +1,2 @@
 # SnakeGame
-This is a Simple Game.
+This is a Simple Gaming Site.
